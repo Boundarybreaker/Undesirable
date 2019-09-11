@@ -1,0 +1,22 @@
+{
+  "schemaVersion": 1,
+  "id": "undesirable",
+  "version": "$version",
+
+  "name": "Undesirable",
+  "icon": "assets/undesirable/icon.png",
+  "description": "Get rid of Desire Paths without holes in your world",
+  "licence": "MIT",
+  "contact": {
+    "sources": "https://github.com/CottonMC/undesirable"
+  },
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "space.bbkr.undesirable.Undesirable"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.4.0"
+  }
+}

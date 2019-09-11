@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "undesirable:block/mycelium_to_dirt"
+  }
+}

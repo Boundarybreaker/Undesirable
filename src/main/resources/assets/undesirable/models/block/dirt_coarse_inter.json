@@ -1,0 +1,6 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "all": "undesirable:block/dirt_to_coarse"
+  }
+}
